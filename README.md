@@ -1,2 +1,2 @@
-# MorseLator
-A morse code translator application
+# BlazorTest
+Testing Blazor out.
