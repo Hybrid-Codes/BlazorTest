@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MorseLator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b564cf935848a6211a9d88e7a0af55a983fc06dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0135db430b18fbcb8607a0a2728ceaebaf0c7268")]
 [assembly: System.Reflection.AssemblyProductAttribute("MorseLator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MorseLator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
